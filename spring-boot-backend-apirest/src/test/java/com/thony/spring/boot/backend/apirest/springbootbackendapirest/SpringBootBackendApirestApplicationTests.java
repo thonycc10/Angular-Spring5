@@ -1,4 +1,4 @@
-package com.bolsadeideas.springboot.backend.apirest;
+package com.thony.spring.boot.backend.apirest.springbootbackendapirest;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -9,8 +9,9 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class SpringBootBackendApirestApplicationTests {
 
-	@Test
-	public void contextLoads() {
-	}
+    @Test
+    public void contextLoads() {
+    }
 
 }
+
